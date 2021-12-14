@@ -25,9 +25,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* USB Device descriptor parameter */
 #define VENDOR_ID       0x3297
 #define DEVICE_VER      0x0001
-#define MANUFACTURER    ZSA Technology Labs
+#define MANUFACTURER    Charles Chau
 #define PRODUCT_ID      0x4974
-#define PRODUCT         ErgoDox EZ
+#define PRODUCT         Dactyl Manuform
 
 /* key matrix size */
 #define MATRIX_ROWS 14
@@ -158,3 +158,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define NO_ACTION_MACRO
 #define NO_ACTION_FUNCTION
 //#define DEBUG_MATRIX_SCAN_RATE
+
+
+#define COMBO_COUNT 1
